@@ -1,2 +1,2 @@
 # apiGetGameSteam
- API REST para busca de jogos da Steam
+ API REST para buscar jogos da Steam
